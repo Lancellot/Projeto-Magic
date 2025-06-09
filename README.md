@@ -1,5 +1,5 @@
 
-# 🧙‍♂️ MagikIA
+# 🧙‍♂️ Projeto-Magic
 
 Projeto desenvolvido durante a **"Semana do Zero ao Programador Contratado"**, promovida pela Dev em Dobro. O MagikIA é um clone interativo inspirado no universo de **Magic: The Gathering**, focado na visualização e filtragem de cartas mágicas em uma interface moderna e responsiva.
 
@@ -45,11 +45,11 @@ index.html
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/magikia.git
+   git clone https://github.com/lancellot/Projeto-Magic.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd magikia
+   cd Projeto-Magic
    ```
 3. Abra o arquivo `index.html` no seu navegador.
 
